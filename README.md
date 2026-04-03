@@ -1,5 +1,10 @@
 # Steam_Market_Analysis_BigData
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Databricks](https://img.shields.io/badge/Platform-Databricks-orange?logo=databricks)
+![Big Data](https://img.shields.io/badge/Big--Data-PySpark--Ready-red)
+![ML](https://img.shields.io/badge/ML-Unsupervised-blueviolet)
+
 ## 📌 Project Overview
 As part of my Data Science training, I conducted a comprehensive analysis of the Steam platform on behalf of **Ubisoft**. The objective was to decipher the factors influencing game popularity and to identify current trends in the global video game market to support the launch of a new title.
 
